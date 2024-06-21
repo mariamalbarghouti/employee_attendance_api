@@ -5,7 +5,6 @@ from base.models import Item
 from .serializers import ItemSerializer, ImageSerializer ,ImageComparisonSerializer
 import requests
 from io import BytesIO
-from io import BytesIO
 import os
 import numpy as np
 from PIL import Image
